@@ -1,0 +1,16 @@
+:root {
+    --bg-dred: rgba(100, 12, 0, 1);
+    --bg-dgrey: rgba(56, 56, 56, 1);
+    --bg-lgrey: rgba(210, 210, 210, 1);
+    --bg-white: rgba(240, 240, 240, 1);
+
+    --font-black: rgba(30, 30, 30, 1);
+    --font-lgrey: rgb(83, 77, 77);
+    --font-white: rgba(240, 240, 240, 1);
+    --font-dred: rgba(136, 21, 0, 1);
+
+    --text-small: 18px;
+    --text-med: 22px;
+    --text-large: 40px;
+    --text-xlarge: 54px;
+}
